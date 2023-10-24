@@ -1,7 +1,7 @@
 Hello, I’m @EshanPrakash, a First Year Student at Occidental College
 - I’m interested in Data Science, Data Analytics, and Game Development
 - I have coding experience in Python (Pandas, Sklearn, Matplotlib, Seaborn), SQL, Java, and JavaScript
-- I am most comfortable working with Jupyter Notebook and Eclipse IDE
+- I am most comfortable working with Jupyter Notebook, Snowflake, and Eclipse IDE
 - I’m looking for Data Analytics jobs and internships
 - I can be reached at eshanrocks2@gmail.com
 
