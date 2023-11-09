@@ -7,7 +7,7 @@ Hello, I’m @EshanPrakash, a First Year Student at Occidental College
   - PyCharm CE for Python
   - IntelliJ CE for Java
   - Eclipse IDE for Java, Python
-  - Visual Studio Code for Java, Python, HTML, C, C++
+  - Visual Studio Code for HTML, C, C++
 - I’m looking for Data Analytics jobs and internships
 - I can be reached at eshanrocks2@gmail.com
 
