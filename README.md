@@ -9,7 +9,7 @@ Hello, I’m @EshanPrakash, a First Year Student at Occidental College
   - Eclipse IDE for Java, Python
   - Visual Studio Code for HTML, CSS, JavaScript, C, C++
 - I’m looking for Data Analytics jobs and internships
-- I can be reached at eshanrocks2@gmail.com
+- I can be reached at eprakash@oxy.edu
 
 <!---
 EshanPrakash/EshanPrakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
