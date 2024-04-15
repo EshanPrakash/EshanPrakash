@@ -3,6 +3,11 @@ Hello, I’m @EshanPrakash, a First Year Student at Occidental College
 - I have coding experience in Python (Pandas, Scikit-learn, Matplotlib, Seaborn, NumPy), SQL, and Java
 - I’m looking for AI/ML jobs and internships
 
+I'm most comfortable working in:
+- JetBrains products (IntelliJ, PyCharm, etc.)
+- Jupyter
+- Eclipse IDE
+
 I can be reached at eprakash@oxy.edu
 
 <!---
