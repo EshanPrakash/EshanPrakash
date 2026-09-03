@@ -4,7 +4,7 @@ CS + Cognitive Science student at Occidental College (GPA 3.94, Dean's List).
 Looking for AI/ML and software engineering roles.
 
 ## What I'm working on
-- FastAPI + MCP server for Warhammer 40,000 game data ([OpenHammer](https://github.com/EshanPrakash/openhammer-api))
+- FastAPI + MCP server for Warhammer 40,000 game data ([openhammer-api](https://github.com/EshanPrakash/openhammer-api))
 - Multi-modal time perception research tooling (MATLAB/Psychtoolbox) ([time_perception_framework](https://github.com/EshanPrakash/time_perception_framework))
 - Serverless audio generation pipelines on AWS ([audi-tory](https://github.com/EshanPrakash/audi-tory))
 
